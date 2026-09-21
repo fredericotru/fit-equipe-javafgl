@@ -9,9 +9,8 @@ public class Calc {
 
     // Pessoa B
     public int subtracao(int a, int b) {
-        return 0;
-    }
-
+    return a - b;
+}
     // Pessoa C
     public int multiplicacao(int a, int b) {
         return 0;
