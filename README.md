@@ -1,2 +1,5 @@
 # fit-equipe-javafgl
 fred lavinia guilherme
+
+
+Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [Pessoa B: Lavinia Martins ]
