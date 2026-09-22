@@ -2,4 +2,4 @@
 fred lavinia guilherme
 
 
-Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [PREENCHER AQUI]
+Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [Pessoa B: Lavinia Martins ]
